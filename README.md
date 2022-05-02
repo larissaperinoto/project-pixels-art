@@ -72,5 +72,5 @@ A cor preta ainda precisa estar presente e deve ser a primeira na sua paleta de 
 
 ![Captura de tela de 2022-05-01 15-22-51](https://user-images.githubusercontent.com/98956659/166150234-94c3b821-692a-47b4-869e-94b44d57c3f0.png)
 
-### [Teste](https://larissaperinoto.github.io/project-pixels-art/) a aplicação
+#### [Experimente](https://larissaperinoto.github.io/project-pixels-art/) a aplicação
 ![Captura de tela de 2022-05-01 15-25-35](https://user-images.githubusercontent.com/98956659/166150368-08de33a7-bfa2-4638-a4fb-c7caa542e1a0.png)
